@@ -12,7 +12,7 @@ A beginner machine learning project that predicts whether a student gets placed,
 - Saves the model with Pickle
 
 ## Files
-- `Placement_Predictor.ipynb`: the full notebook
+- `sayondas-2.ipynb`: the full notebook
 - `placement.csv`: the dataset
 - `model.pkl`: the trained model
 
